@@ -5,5 +5,15 @@
   "vegetables": "https://images.unsplash.com/photo-1518843875459-f738682238a6",
   "rice": "https://images.unsplash.com/photo-1586201375761-83865001e31c",
   "recommend.png": "Copied unchanged from original Siam Jumbo project",
-  "siam.mp4": "Copied unchanged from original Siam Jumbo project"
+  "siam.mp4": "Copied unchanged from original Siam Jumbo project",
+  "category_images_v2": {
+    "method": "Built-in ImageGen",
+    "note": "Generated illustrative category still lifes, not actual company inventory or supplier photography.",
+    "files": [
+      "images/fruit-editorial.webp",
+      "images/vegetables-editorial.webp",
+      "images/rice-editorial.webp"
+    ]
+  },
+  "crispy-artwork.webp": "WebP web rendition of unchanged original recommend.png artwork"
 }
