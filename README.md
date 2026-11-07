@@ -11,6 +11,7 @@ Use Node.js 20.9 or newer. Run `npm ci`, then `npm run dev`. Production static e
 - `app/content.ts`: company contacts, bilingual copy, category descriptions, image paths.
 - `app/components/SiamJumbo.tsx`: page structure and interactions.
 - `app/globals.css`: responsive layout, typography and colors.
+- `app/fonts.css` and `public/fonts/`: self-hosted Inter Tight, Inter and IBM Plex Sans Thai; font licenses and sources are included.
 - `public/images/`: replace illustrative photographs here.
 - `public/recommend.png` and `public/siam.mp4`: unchanged media from the original project.
 
